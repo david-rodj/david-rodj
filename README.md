@@ -1,4 +1,4 @@
-#**Bienvenidos a mi repositorio**
+# **Bienvenidos a mi repositorio**
 
 Soy estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana, apasionado por las tecnologías emergentes y su potencial para transformar el mundo. Mi interés se centra en tres áreas clave: Blockchain, Inteligencia Artificial (IA) y Bases de Datos. En este repositorio, encontrarás proyectos y trabajos desarrollados durante mi tiempo en la universidad. 
 
