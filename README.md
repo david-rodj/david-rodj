@@ -8,6 +8,9 @@ Im a Systems engineering student at Pontificia Universidad Javeriana 🏫
 ![](https://github-readme-streak-stats.herokuapp.com/?user=david-rodj&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=david-rodj&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=david-rodj)](https://github.com/david-rodj/github-readme-stats)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=david-rodj&icon=0&color=3)](https://visitcount.itsvg.in)
 
