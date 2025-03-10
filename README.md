@@ -14,3 +14,9 @@ Systems engineering student at Pontificia Universidad Javeriana 🏫
 
 ---
 [![](https://visitcount.itsvg.in/api?id=david-rodj&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/david-rodj/david-rodj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/david-rodj/david-rodj/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/david-rodj/david-rodj/output/github-snake.svg" />
+</picture>
