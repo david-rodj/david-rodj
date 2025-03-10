@@ -1,5 +1,5 @@
-# 💫About Me :
-Systems engineering student at Pontificia Universidad Javeriana 🏫
+# Hi everyone, im David 🏀🎯🍀:
+Im a Systems engineering student at Pontificia Universidad Javeriana 🏫
 
 
 ## 🌐Socials
