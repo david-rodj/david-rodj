@@ -6,7 +6,8 @@ Im a Systems engineering student at Pontificia Universidad Javeriana 🏫
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=david-rodj&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=david-rodj&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=david-rodj&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=david-rodj&theme=merko)](https://github.com/david-rodj/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=david-rodj&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=david-rodj&theme=merko)](https://github.com/david-rodj/github-readme-stats)
 
 
 ---
