@@ -1,3 +1,11 @@
+<p align="center">
+  <div style="position: relative; display: inline-block;">
+    <img src="Banner.png">
+    <img src="animacion.gif" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+  </div>
+</p>
+
+
 # Hi everyone, im David 🏀🎯🍀:
 Im a Systems engineering student at Pontificia Universidad Javeriana 🏫\
 Looking up to learn more about Database management\
