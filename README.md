@@ -1,8 +1,5 @@
 <p align="center">
-  <div style="position: relative; display: inline-block;">
-    <img src="Banner.png">
-    <img src="animacion.gif" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-  </div>
+  <img src="Banner.gif">
 </p>
 
 
